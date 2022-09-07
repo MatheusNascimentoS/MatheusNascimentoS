@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there, I am Matheus, just a curious guy who always likes to learn something new!
 
 - I’m currently learning Dart, Flutter and Python
 
